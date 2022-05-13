@@ -114,16 +114,15 @@ input[type="submit"]:hover{
   border-color: #3D2C8D;
   transition: .5s;
 }
-.signup_link{
-  margin: 30px 0;
-  text-align: center;
-  font-size: 16px;
-  color: white;
+.pass{
+  margin: -5px 0 20px 5px;
+  color: #a6a6a6;
+  cursor: pointer;
 }
-.signup_link a{
-  color: #1C0C5B;
-  text-decoration: none;
-}
-.signup_link a:hover{
+.pass:hover{
   text-decoration: underline;
+}
+.forgot{
+  color: #a6a6a6;
+  text-decoration: none;
 }

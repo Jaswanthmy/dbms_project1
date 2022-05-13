@@ -157,3 +157,11 @@ input[type="submit"]:hover{
 .button__text{
   padding: 5px;
 }
+.button_log{
+  color: white;
+  text-decoration: none;
+}
+.forgot{
+  color: #a6a6a6;
+  text-decoration: none;
+}
