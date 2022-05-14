@@ -51,7 +51,7 @@ body{
   padding: 0;
   font-family: montserrat;
   height: 100vh;
-  overflow:hidden;
+  overflow:scroll;
 }
 .center{
   position: absolute;
